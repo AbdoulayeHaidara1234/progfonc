@@ -2,10 +2,5 @@
 *.tasty
 *$.class
 immutabilite/.bsp/scala.json
-immutabilite/.scala-build/.bloop/immutabilite_238b85ad13-2f3dc6d919.json
-immutabilite/.scala-build/.bloop/immutabilite_238b85ad13-2f3dc6d919/immutabilite_238b85ad13-2f3dc6d919-analysis.bin
-immutabilite/.scala-build/ide-envs.json
-immutabilite/.scala-build/ide-inputs.json
-immutabilite/.scala-build/ide-launcher-options.json
-immutabilite/.scala-build/ide-options-v2.json
+immutabilite/.scala-build/*
 
