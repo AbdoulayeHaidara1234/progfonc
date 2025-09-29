@@ -1,6 +1,8 @@
 *.class
 *.tasty
 *$.class
-immutabilite/.bsp/scala.json
+immutabilite/.bsp/*
 immutabilite/.scala-build/*
+ordre_sup/.bsp/*
+ordre_sup/.scala-build/*
 
